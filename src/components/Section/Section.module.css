@@ -1,0 +1,15 @@
+/* Section.module.css */
+.section {
+  display: block;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  max-width: 270px;
+  background-color: rgb(221, 221, 248);
+  padding: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
